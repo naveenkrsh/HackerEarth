@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/obj/Debug/netcoreapp2.0/AkashAndTheAssignment.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/obj/Debug/netcoreapp2.0/AkashAndTheAssignment.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/obj/Debug/netcoreapp2.0/AkashAndTheAssignment.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/bin/Debug/netcoreapp2.0/AkashAndTheAssignment.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/bin/Debug/netcoreapp2.0/AkashAndTheAssignment.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/bin/Debug/netcoreapp2.0/AkashAndTheAssignment.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/bin/Debug/netcoreapp2.0/AkashAndTheAssignment.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/bin/Debug/netcoreapp2.0/AkashAndTheAssignment.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/obj/Debug/netcoreapp2.0/AkashAndTheAssignment.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AkashAndTheAssignment/obj/Debug/netcoreapp2.0/AkashAndTheAssignment.pdb

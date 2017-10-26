@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/bin/Debug/netcoreapp2.0/AddAlternateElements.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/bin/Debug/netcoreapp2.0/AddAlternateElements.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/bin/Debug/netcoreapp2.0/AddAlternateElements.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/bin/Debug/netcoreapp2.0/AddAlternateElements.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/bin/Debug/netcoreapp2.0/AddAlternateElements.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/obj/Debug/netcoreapp2.0/AddAlternateElements.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/obj/Debug/netcoreapp2.0/AddAlternateElements.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/obj/Debug/netcoreapp2.0/AddAlternateElements.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/obj/Debug/netcoreapp2.0/AddAlternateElements.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/AddAlternateElements/obj/Debug/netcoreapp2.0/AddAlternateElements.pdb

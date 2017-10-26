@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/bin/Debug/netcoreapp2.0/RoyAndSymmetricLogos.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/bin/Debug/netcoreapp2.0/RoyAndSymmetricLogos.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/bin/Debug/netcoreapp2.0/RoyAndSymmetricLogos.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/bin/Debug/netcoreapp2.0/RoyAndSymmetricLogos.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/bin/Debug/netcoreapp2.0/RoyAndSymmetricLogos.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/obj/Debug/netcoreapp2.0/RoyAndSymmetricLogos.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/obj/Debug/netcoreapp2.0/RoyAndSymmetricLogos.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/obj/Debug/netcoreapp2.0/RoyAndSymmetricLogos.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/obj/Debug/netcoreapp2.0/RoyAndSymmetricLogos.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Matrix/RoyAndSymmetricLogos/obj/Debug/netcoreapp2.0/RoyAndSymmetricLogos.pdb

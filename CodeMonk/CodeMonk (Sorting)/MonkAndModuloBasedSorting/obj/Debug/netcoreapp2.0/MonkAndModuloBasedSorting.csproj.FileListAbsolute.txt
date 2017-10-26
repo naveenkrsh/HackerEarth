@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/bin/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/bin/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/bin/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/bin/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.dll
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/bin/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/obj/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/obj/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/obj/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/obj/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.dll
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndModuloBasedSorting/obj/Debug/netcoreapp2.0/MonkAndModuloBasedSorting.pdb

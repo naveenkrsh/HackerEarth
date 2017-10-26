@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/bin/Debug/netcoreapp2.0/MonkAndPhilosopherStone.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/bin/Debug/netcoreapp2.0/MonkAndPhilosopherStone.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/bin/Debug/netcoreapp2.0/MonkAndPhilosopherStone.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/bin/Debug/netcoreapp2.0/MonkAndPhilosopherStone.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/bin/Debug/netcoreapp2.0/MonkAndPhilosopherStone.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/obj/Debug/netcoreapp2.0/MonkAndPhilosopherStone.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/obj/Debug/netcoreapp2.0/MonkAndPhilosopherStone.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/obj/Debug/netcoreapp2.0/MonkAndPhilosopherStone.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/obj/Debug/netcoreapp2.0/MonkAndPhilosopherStone.dll
+/home/naveen/Documents/WorkSpace/hackerearth/Stack/MonkAndPhilosopherStone/obj/Debug/netcoreapp2.0/MonkAndPhilosopherStone.pdb

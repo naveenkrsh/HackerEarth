@@ -1,0 +1,10 @@
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/bin/Debug/netcoreapp2.0/MonkAndSuffixSort.deps.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/bin/Debug/netcoreapp2.0/MonkAndSuffixSort.runtimeconfig.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/bin/Debug/netcoreapp2.0/MonkAndSuffixSort.runtimeconfig.dev.json
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/bin/Debug/netcoreapp2.0/MonkAndSuffixSort.dll
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/bin/Debug/netcoreapp2.0/MonkAndSuffixSort.pdb
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/obj/Debug/netcoreapp2.0/MonkAndSuffixSort.csproj.CoreCompileInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/obj/Debug/netcoreapp2.0/MonkAndSuffixSort.AssemblyInfoInputs.cache
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/obj/Debug/netcoreapp2.0/MonkAndSuffixSort.AssemblyInfo.cs
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/obj/Debug/netcoreapp2.0/MonkAndSuffixSort.dll
+/home/naveen/Documents/WorkSpace/hackerearth/CodeMonk/CodeMonk (Sorting)/MonkAndSuffixSort/obj/Debug/netcoreapp2.0/MonkAndSuffixSort.pdb
