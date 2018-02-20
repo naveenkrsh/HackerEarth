@@ -41,7 +41,7 @@ namespace Potential
         static void CaculateAndPrint(long[] xArr, long[] pArr, long a, long b)
         {
             long currentMax = 0;
-
+            
             for (long i = a; i <= b; i++)
             {
                 long value = xArr[i - 1] + Math.Min(pArr[i - 1], i - a);// % 1000000007;
